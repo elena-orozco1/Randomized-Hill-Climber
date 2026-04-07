@@ -10,7 +10,7 @@ Install NumPy if you don't have it:
 pip install numpy
 
 How to Run
-python rhcr2_fixed.py
+python task1_rhcr2.py
 That's it. No arguments needed — all 32 experiments plus the 33rd preferred run will execute automatically and print to the terminal.
 
 What the Program Does
